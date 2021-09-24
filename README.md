@@ -7,6 +7,10 @@ faithful 64x64
 TODO
 ## Setup
 
+https://github.com/TheDxr/Faithful64-GTNH/releases/download/1.0.0-dev/GTNH.X64.Faithful.Texture-dev.zip
+
+or
+
 1. Click on "Clone or Download" on the top right corner of the repository.
 2. Click "Download ZIP"
 3. Unzip into your resource pack folder.
