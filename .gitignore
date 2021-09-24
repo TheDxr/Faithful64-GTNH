@@ -1,0 +1,4 @@
+/assets/*
+!/assets/gregtech
+!/assets/ic2
+!/assets/miscutils
