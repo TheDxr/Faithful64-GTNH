@@ -1,1 +1,0 @@
-MOVE : C:\Users\Administrator\Desktop\GTNH\TEST\.minecraft\resourcepacks\Faithful64-GTNH\assets\gregtech\textures\__debug__\new\1.txt TO C:\Users\Administrator\Desktop\GTNH\TEST\.minecraft\resourcepacks\Faithful64-GTNH\assets\gregtech\textures\__debug__\material\1.txt
